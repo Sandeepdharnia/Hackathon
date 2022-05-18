@@ -1,4 +1,4 @@
-const intersect = [[[2, 1], [4, 4]], [[1, 1], [8, 8]]]; // => [2, 2], [4, 3]
+const intersect = [      [ [2, 1], [4, 4]]         , [[1, 1], [8, 8]]     ]; // => [2, 2], [4, 3]
 
 
 function interSect(arr)
